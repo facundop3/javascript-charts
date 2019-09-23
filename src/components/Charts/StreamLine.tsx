@@ -6,13 +6,9 @@ import "chartjs-plugin-streaming";
 
 let currentIndex = 0;
 const StreamLine = () => {
-  // function randomScalingFactor() {
-  //   return (Math.random() > 0.5 ? 1.0 : -1.0) * Math.round(Math.random() * 100);
-  // }
   function pseudoSin(index: number) {
     const values = [0, 80, 0, -80];
     currentIndex = (index + 1) % values.length;
-    console.log(values[currentIndex]);
     return values[currentIndex];
   }
 
