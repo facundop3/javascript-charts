@@ -11,7 +11,7 @@
     "@types/react-grid-layout": "^0.16.7",
     "@types/styled-components": "^4.1.19",
     "@types/uuid": "^3.4.5",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-streaming": "^1.8.0",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.7.6",
