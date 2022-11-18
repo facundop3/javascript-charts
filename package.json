@@ -17,7 +17,7 @@
     "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.9.0",
     "react-grid-layout": "^0.16.6",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.3.2",
     "sweet-scroll": "^4.0.0",
     "sweetalert2": "^8.17.6",
